@@ -1,2 +1,3 @@
 # githubproject
-this is a sample code for our github project at darlingnherdy08
+This is a sample code for our github project at darlingnherdy08
+Please clone this repository to your repo and edit the html file
